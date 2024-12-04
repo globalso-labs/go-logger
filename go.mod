@@ -3,7 +3,7 @@ module github.com/gsols/go-logger
 go 1.22
 
 require (
-	github.com/getsentry/sentry-go v0.28.1
+	github.com/getsentry/sentry-go v0.30.0
 	github.com/rs/zerolog v1.33.0
 )
 
